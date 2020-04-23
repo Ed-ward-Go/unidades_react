@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          vamos a escuchar musica en cautivaradio!
+ cautivaradio.com
         </a>
       </header>
     </div>
